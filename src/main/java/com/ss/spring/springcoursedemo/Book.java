@@ -1,7 +1,5 @@
 package com.ss.spring.springcoursedemo;
 
-import org.springframework.stereotype.Repository;
-
 public class Book
 {
     long id;
